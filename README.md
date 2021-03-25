@@ -1,4 +1,4 @@
-* iOS card game - Smoke Or Fire
+*iOS card game - Smoke Or Fire
 
 ----- ----- ----- ----- ----- -----
 
